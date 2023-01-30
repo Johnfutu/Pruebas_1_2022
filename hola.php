@@ -3,8 +3,8 @@
      <title>Prueba php</title>
   </head>
   <body>
-     <?php 
-     echo "John es el mejor!!!";
+     <?php
+     echo "John  el mejor!!!";
       ?>
   </body>
 </html>
